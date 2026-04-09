@@ -86,8 +86,6 @@ public abstract class SharedSurveillanceCameraSystem : EntitySystem
     #endregion
 }
 
-
-
 [Serializable, NetSerializable]
 public enum SurveillanceCameraVisualsKey : byte
 {
