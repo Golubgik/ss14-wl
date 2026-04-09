@@ -2,7 +2,6 @@ using Content.Shared.ActionBlocker;
 using Content.Shared.Emp;
 using Content.Shared.Item.ItemToggle.Components;
 using Content.Shared.SurveillanceCamera.Components;
-using Content.Shared.Tools.Components;
 using Content.Shared.Verbs;
 using Robust.Shared.Serialization;
 
